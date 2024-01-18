@@ -1,0 +1,181 @@
+{
+    "main": {
+        "name" : "Anril Tasa Siregar",
+        "description": "I am a Programmer",
+        "image":"profilepic.jpg",
+        "github":"https://github.com/unreal-t",
+        "project":"https://github.com/unreal-t",
+        "bio": "Ini adalah section biografi aku",
+        "contactmessage":"Hello, here I am",
+        "email": "anrilsiregar@gmail.com",
+        "phone": "012345678910",
+        "address":{
+            "street":"Jl.Medan Delitua",
+            "city":"Deli Serdang",
+            "state":"North Sumatera",
+            "zip": "20356"
+        },
+        "website": "https://github.com/unreal-t",
+        "resumedownload":"https://github.com/unreal-t",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://facebook.com/anrylcr",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"http://twitter.com/anryl_94",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/anril-tasa-siregar-4903071a0/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/andrilss",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/unreal-t",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Budidarma",
+                "degree": "Computer Science",
+                "graduated": "Drop Out",
+                "description" : "I am joining gemastik competition"
+            },
+            {
+                "school": "SMAN 1 Angkola Timur",
+                "degree": "Science",
+                "graduated": "May 2012",
+                "description": "I am joining Science olympiade"
+            }
+        ],
+        "work": [
+            {
+                "company": "PT. Nusantara Card Semesta",
+                "title": "Manual Entry Data",
+                "years": "Juni 2012 - Januari 2014",
+                "description": "Entry Package receiver details to computer"
+            },
+            {
+                "company" : "PT.Nusantara Card Semesta",
+                "title" : "IT Support",
+                "years": "Januari 2014 - Januari 2020",
+                "description": "Upload data from client format to  sever format and reporting data to client also Troubleshooting employee PC  and Maintenance Server"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "JavaScript",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+            {
+                "name": "VueJS",
+                "level": "88%"
+            },
+            {
+                "name": "Kotlin",
+                "level": "95%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+        ]
+    }
+}
